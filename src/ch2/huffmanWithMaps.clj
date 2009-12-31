@@ -4,7 +4,8 @@
 (defstruct leaf :symbols :weight)
 (defstruct branch :symbols :weight :left :right)
 
-(defn make-leaf [symbol weight]
+(defn
+  make-leaf [symbol weight]
   (struct leaf (list symbol) weight))
 
 (deftest make-leaf-constructs-a-leaf
