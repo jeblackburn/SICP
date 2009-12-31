@@ -15,7 +15,17 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager" verified="true">
-    <list default="true" readonly="true" id="944969f3-c54a-4b2d-a7bf-d014f2864270" name="Default" comment="" />
+    <list default="true" readonly="true" id="944969f3-c54a-4b2d-a7bf-d014f2864270" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\git\SICP\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\git\SICP\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\git\SICP\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\git\SICP\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\git\SICP\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\git\SICP\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\git\SICP\.idea\ant.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\git\SICP\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\git\SICP\.idea\encodings.xml" afterPath="" />
+    </list>
     <ignored path="SICP.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,7 +119,7 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
